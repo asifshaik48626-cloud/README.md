@@ -1,11 +1,20 @@
 # Hi there 👋, I'm Shaik Asif
 
-### 🚀 About Me
-- 🎓 Student at K.S.R.M. College of Engineering
-- 💻 Passionate about Software Development and Artificial Intelligence
-- 🌱 Currently learning Machine Learning, Web Development, and Problem Solving
-- 🔭 Working on personal and academic projects
-- 🎯 Goal: Become a skilled Full-Stack Developer and AI Engineer
+🚀 About Me
+
+🎓 Student at K.S.R.M. College of Engineering
+
+💼 Currently working as a Full-Stack Developer Intern at Teclusion.ai
+
+💻 Passionate about Software Development, Artificial Intelligence, and Building Real-World Applications.
+
+🌱 Currently learning Machine Learning, Advanced Full-Stack Development, Cloud Technologies, and Data Structures & Algorithms.
+
+🔭 Working on industry projects during my internship along with personal and academic projects.
+
+⚡ Skilled in building responsive web applications using modern technologies and continuously improving my problem-solving skills.
+
+🎯 Career Goal: Become a highly skilled Full-Stack Developer and AI Engineer, creating scalable software solutions powered by AI.
 
 ---
 
