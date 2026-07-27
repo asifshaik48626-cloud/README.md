@@ -5,7 +5,7 @@ Asif<br>🚀 About Me<br><br>🎓 Student at K.S.R.M. College of Engineering<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/asif_.xd2?igsh=MTA3bWV3cDAzNW9tZQ==)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifshaik48626@gmail.com) 
 
-# 💻 Tech Stack:
+# 💻 Tech Arsenal 
 ## 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -28,7 +28,7 @@ Asif<br>🚀 About Me<br><br>🎓 Student at K.S.R.M. College of Engineering<br>
 
 ---
 
-## 🗄️ Database & Storage
+## 🗄️ Storage & Data Inffrastucture
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
@@ -54,7 +54,7 @@ Asif<br>🚀 About Me<br><br>🎓 Student at K.S.R.M. College of Engineering<br>
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud Infrastructure & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
@@ -65,7 +65,7 @@ Asif<br>🚀 About Me<br><br>🎓 Student at K.S.R.M. College of Engineering<br>
 
 ---
 
-## 🌐 Web Servers & Deployment
+## 🌐 Application Hosting & Deployment
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
@@ -73,13 +73,13 @@ Asif<br>🚀 About Me<br><br>🎓 Student at K.S.R.M. College of Engineering<br>
 
 ---
 
-## 🔍 Search & Data Engineering
+## 🔍 Search & Information retrieval
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
 
 ---
 
-## 🧪 Testing & Quality Assurance
+## 🧪 Quality Engineering & Software Quality Assurance
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B)
@@ -88,7 +88,7 @@ Asif<br>🚀 About Me<br><br>🎓 Student at K.S.R.M. College of Engineering<br>
 
 ---
 
-## 🎨 Design & Productivity
+## 🎨 UI/UX Design & Product Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
