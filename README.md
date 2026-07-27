@@ -28,7 +28,7 @@ Asif<br>🚀 About Me<br><br>🎓 Student at K.S.R.M. College of Engineering<br>
 
 ---
 
-## 🗄️ Storage & Data Inffrastucture
+## 🗄️ Storage & Data Infrastucture
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
